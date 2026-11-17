@@ -1,0 +1,13 @@
+*.class
+*.log
+node_modules/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+target/
+bin/
+out/
+.DS_Store
+Thumbs.db
